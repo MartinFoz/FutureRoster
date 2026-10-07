@@ -1,0 +1,55 @@
+/Users/foz/Documents/Documents - Martin’s MacBook Pro/FutureRostaMaker/RosterScraper/bin/Debug/net10.0/RosterScraper
+/Users/foz/Documents/Documents - Martin’s MacBook Pro/FutureRostaMaker/RosterScraper/bin/Debug/net10.0/RosterScraper.deps.json
+/Users/foz/Documents/Documents - Martin’s MacBook Pro/FutureRostaMaker/RosterScraper/bin/Debug/net10.0/RosterScraper.runtimeconfig.json
+/Users/foz/Documents/Documents - Martin’s MacBook Pro/FutureRostaMaker/RosterScraper/bin/Debug/net10.0/RosterScraper.dll
+/Users/foz/Documents/Documents - Martin’s MacBook Pro/FutureRostaMaker/RosterScraper/bin/Debug/net10.0/RosterScraper.pdb
+/Users/foz/Documents/Documents - Martin’s MacBook Pro/FutureRostaMaker/RosterScraper/bin/Debug/net10.0/HtmlAgilityPack.dll
+/Users/foz/Documents/Documents - Martin’s MacBook Pro/FutureRostaMaker/RosterScraper/bin/Debug/net10.0/WebDriver.dll
+/Users/foz/Documents/Documents - Martin’s MacBook Pro/FutureRostaMaker/RosterScraper/bin/Debug/net10.0/runtimes/linux/native/selenium-manager
+/Users/foz/Documents/Documents - Martin’s MacBook Pro/FutureRostaMaker/RosterScraper/bin/Debug/net10.0/runtimes/osx/native/selenium-manager
+/Users/foz/Documents/Documents - Martin’s MacBook Pro/FutureRostaMaker/RosterScraper/bin/Debug/net10.0/runtimes/win/native/selenium-manager.exe
+/Users/foz/Documents/Documents - Martin’s MacBook Pro/FutureRostaMaker/RosterScraper/obj/Debug/net10.0/RosterScraper.csproj.AssemblyReference.cache
+/Users/foz/Documents/Documents - Martin’s MacBook Pro/FutureRostaMaker/RosterScraper/obj/Debug/net10.0/RosterScraper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/foz/Documents/Documents - Martin’s MacBook Pro/FutureRostaMaker/RosterScraper/obj/Debug/net10.0/RosterScraper.AssemblyInfoInputs.cache
+/Users/foz/Documents/Documents - Martin’s MacBook Pro/FutureRostaMaker/RosterScraper/obj/Debug/net10.0/RosterScraper.AssemblyInfo.cs
+/Users/foz/Documents/Documents - Martin’s MacBook Pro/FutureRostaMaker/RosterScraper/obj/Debug/net10.0/RosterScraper.csproj.CoreCompileInputs.cache
+/Users/foz/Documents/Documents - Martin’s MacBook Pro/FutureRostaMaker/RosterScraper/obj/Debug/net10.0/RosterSc.11BC34EA.Up2Date
+/Users/foz/Documents/Documents - Martin’s MacBook Pro/FutureRostaMaker/RosterScraper/obj/Debug/net10.0/RosterScraper.dll
+/Users/foz/Documents/Documents - Martin’s MacBook Pro/FutureRostaMaker/RosterScraper/obj/Debug/net10.0/refint/RosterScraper.dll
+/Users/foz/Documents/Documents - Martin’s MacBook Pro/FutureRostaMaker/RosterScraper/obj/Debug/net10.0/RosterScraper.pdb
+/Users/foz/Documents/Documents - Martin’s MacBook Pro/FutureRostaMaker/RosterScraper/obj/Debug/net10.0/RosterScraper.genruntimeconfig.cache
+/Users/foz/Documents/Documents - Martin’s MacBook Pro/FutureRostaMaker/RosterScraper/obj/Debug/net10.0/ref/RosterScraper.dll
+/Users/foz/Documents/FutureRostaMaker 2/RosterScraper/bin/Debug/net10.0/RosterScraper
+/Users/foz/Documents/FutureRostaMaker 2/RosterScraper/bin/Debug/net10.0/RosterScraper.deps.json
+/Users/foz/Documents/FutureRostaMaker 2/RosterScraper/bin/Debug/net10.0/RosterScraper.runtimeconfig.json
+/Users/foz/Documents/FutureRostaMaker 2/RosterScraper/bin/Debug/net10.0/RosterScraper.dll
+/Users/foz/Documents/FutureRostaMaker 2/RosterScraper/bin/Debug/net10.0/RosterScraper.pdb
+/Users/foz/Documents/FutureRostaMaker 2/RosterScraper/bin/Debug/net10.0/HtmlAgilityPack.dll
+/Users/foz/Documents/FutureRostaMaker 2/RosterScraper/obj/Debug/net10.0/RosterScraper.csproj.AssemblyReference.cache
+/Users/foz/Documents/FutureRostaMaker 2/RosterScraper/obj/Debug/net10.0/RosterScraper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/foz/Documents/FutureRostaMaker 2/RosterScraper/obj/Debug/net10.0/RosterScraper.AssemblyInfoInputs.cache
+/Users/foz/Documents/FutureRostaMaker 2/RosterScraper/obj/Debug/net10.0/RosterScraper.AssemblyInfo.cs
+/Users/foz/Documents/FutureRostaMaker 2/RosterScraper/obj/Debug/net10.0/RosterScraper.csproj.CoreCompileInputs.cache
+/Users/foz/Documents/FutureRostaMaker 2/RosterScraper/obj/Debug/net10.0/RosterSc.11BC34EA.Up2Date
+/Users/foz/Documents/FutureRostaMaker 2/RosterScraper/obj/Debug/net10.0/RosterScraper.dll
+/Users/foz/Documents/FutureRostaMaker 2/RosterScraper/obj/Debug/net10.0/refint/RosterScraper.dll
+/Users/foz/Documents/FutureRostaMaker 2/RosterScraper/obj/Debug/net10.0/RosterScraper.pdb
+/Users/foz/Documents/FutureRostaMaker 2/RosterScraper/obj/Debug/net10.0/RosterScraper.genruntimeconfig.cache
+/Users/foz/Documents/FutureRostaMaker 2/RosterScraper/obj/Debug/net10.0/ref/RosterScraper.dll
+/Users/foz/OtherCodeProjects/FutureRostaMaker 2 copy/RosterScraper/bin/Debug/net10.0/RosterScraper
+/Users/foz/OtherCodeProjects/FutureRostaMaker 2 copy/RosterScraper/bin/Debug/net10.0/RosterScraper.deps.json
+/Users/foz/OtherCodeProjects/FutureRostaMaker 2 copy/RosterScraper/bin/Debug/net10.0/RosterScraper.runtimeconfig.json
+/Users/foz/OtherCodeProjects/FutureRostaMaker 2 copy/RosterScraper/bin/Debug/net10.0/RosterScraper.dll
+/Users/foz/OtherCodeProjects/FutureRostaMaker 2 copy/RosterScraper/bin/Debug/net10.0/RosterScraper.pdb
+/Users/foz/OtherCodeProjects/FutureRostaMaker 2 copy/RosterScraper/bin/Debug/net10.0/HtmlAgilityPack.dll
+/Users/foz/OtherCodeProjects/FutureRostaMaker 2 copy/RosterScraper/obj/Debug/net10.0/RosterScraper.csproj.AssemblyReference.cache
+/Users/foz/OtherCodeProjects/FutureRostaMaker 2 copy/RosterScraper/obj/Debug/net10.0/RosterScraper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/foz/OtherCodeProjects/FutureRostaMaker 2 copy/RosterScraper/obj/Debug/net10.0/RosterScraper.AssemblyInfoInputs.cache
+/Users/foz/OtherCodeProjects/FutureRostaMaker 2 copy/RosterScraper/obj/Debug/net10.0/RosterScraper.AssemblyInfo.cs
+/Users/foz/OtherCodeProjects/FutureRostaMaker 2 copy/RosterScraper/obj/Debug/net10.0/RosterScraper.csproj.CoreCompileInputs.cache
+/Users/foz/OtherCodeProjects/FutureRostaMaker 2 copy/RosterScraper/obj/Debug/net10.0/RosterSc.11BC34EA.Up2Date
+/Users/foz/OtherCodeProjects/FutureRostaMaker 2 copy/RosterScraper/obj/Debug/net10.0/RosterScraper.dll
+/Users/foz/OtherCodeProjects/FutureRostaMaker 2 copy/RosterScraper/obj/Debug/net10.0/refint/RosterScraper.dll
+/Users/foz/OtherCodeProjects/FutureRostaMaker 2 copy/RosterScraper/obj/Debug/net10.0/RosterScraper.pdb
+/Users/foz/OtherCodeProjects/FutureRostaMaker 2 copy/RosterScraper/obj/Debug/net10.0/RosterScraper.genruntimeconfig.cache
+/Users/foz/OtherCodeProjects/FutureRostaMaker 2 copy/RosterScraper/obj/Debug/net10.0/ref/RosterScraper.dll

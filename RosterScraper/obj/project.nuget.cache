@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YEW6KXPCt8Q=",
+  "success": true,
+  "projectFilePath": "/Users/foz/OtherCodeProjects/FutureRostaMaker 2 copy/RosterScraper/RosterScraper.csproj",
+  "expectedPackageFiles": [
+    "/Users/foz/.nuget/packages/htmlagilitypack/1.12.4/htmlagilitypack.1.12.4.nupkg.sha512"
+  ],
+  "logs": []
+}
