@@ -10,6 +10,7 @@ class Program
     {
         // Download HTML using HttpClient
         string url = "https://www.parkrun.org.uk/{0}/futureroster/";
+        string location = "";
         
         using (var client = new HttpClient())
         {
@@ -17,16 +18,20 @@ class Program
             // get the location
             if (args.Length == 0)
             {
-                Console.WriteLine("Usage: RosterScraper <location> - if the location has spaces, please enclose in \"quotes\"");
-                return;
+                Console.Write("Please enter the location : ");
+                location = Console.ReadLine().Replace(" ", string.Empty).ToLower();
+                if (location == "exit" || location == "quit" || location == "") return;
             }
-            if (args.Length != 1)
+            else if (args.Length != 1)
             {
                 Console.WriteLine("Usage: RosterScraper <location> - remember to use \"quotes\" if the name has spaces, or just don't use spaces!");
                 return;
             }
+            else
+            {
+                location = args[0].Replace(" ", string.Empty).ToLower();
+            }
             
-            string location = args[0].Replace(" ", string.Empty).ToLower();
             
             try
             {
