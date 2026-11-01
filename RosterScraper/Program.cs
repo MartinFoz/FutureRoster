@@ -9,15 +9,28 @@ class Program
     static async Task Main(string[] args)
     {
         // Download HTML using HttpClient
-        string url = "https://www.parkrun.org.uk/havant/futureroster/";
+        string url = "https://www.parkrun.org.uk/{0}/futureroster/";
         
         using (var client = new HttpClient())
         {
             client.DefaultRequestHeaders.Add("User-Agent", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36");
+            // get the location
+            if (args.Length == 0)
+            {
+                Console.WriteLine("Usage: RosterScraper <location> - if the location has spaces, please enclose in \"quotes\"");
+                return;
+            }
+            if (args.Length != 1)
+            {
+                Console.WriteLine("Usage: RosterScraper <location> - remember to use \"quotes\" if the name has spaces, or just don't use spaces!");
+                return;
+            }
+            
+            string location = args[0].Replace(" ", string.Empty).ToLower();
             
             try
             {
-                var response = await client.GetAsync(url);
+                var response = await client.GetAsync(string.Format(url, location));
                 response.EnsureSuccessStatusCode();
                 string html = await response.Content.ReadAsStringAsync();
                 Console.WriteLine($"HTML length: {html.Length}");
@@ -60,6 +73,7 @@ class Program
                 if (roleCell == null) continue;
                 var role = roleCell.InnerText.Trim();
                 if (role.ToLower() == "pacer") continue;
+                if (role.ToLower() == "volunteer co-ordinator") continue;
                 
                 // Get names from the <td> tags
                 var cells = row.SelectNodes(".//td");
